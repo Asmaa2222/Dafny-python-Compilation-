@@ -1,0 +1,10 @@
+{
+    "id": "01",
+    "Description": "Python program to add two numbers",
+    "Code": "def add_numbers(a, b):\n    sum = a + b\n    return sum",
+    "input": {
+        "a": 3,
+        "b": 4
+    },
+    "output": 7
+}

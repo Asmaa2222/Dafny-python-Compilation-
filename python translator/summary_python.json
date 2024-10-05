@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "description": "Python program to add two numbers",
+        "code": "def add_numbers(a, b):\n    sum = a + b\n    return sum",
+        "input": {
+            "a": 3,
+            "b": 4
+        },
+        "output": 7,
+        "methods": [
+            {
+                "method_name": "add_numbers",
+                "parameters": [
+                    "a",
+                    "b"
+                ],
+                "return_type": "None"
+            }
+        ]
+    }
+]
